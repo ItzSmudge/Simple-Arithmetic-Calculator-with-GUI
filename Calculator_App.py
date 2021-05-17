@@ -1,6 +1,6 @@
 from tkinter import *
 import tkinter.messagebox
-root =  Tk()
+root = Tk()
 root.title("Calculator")
 root.resizable(False,False)
 entry = StringVar()
