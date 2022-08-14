@@ -1,2 +1,5 @@
 12/08/2022
 Fixed inconsitencies in buttons code and text font.
+
+14/08/2022
+Added window icon.
