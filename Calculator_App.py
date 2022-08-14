@@ -4,6 +4,7 @@ import tkinter.messagebox
 window = Tk()
 window.title("Calculator")
 window.resizable(False,False)
+window.iconbitmap("Icon.ico")
 
 text_font = ("Sans Serif", 20, "bold")
 fg_color = "#000000"
