@@ -5,5 +5,6 @@ Please do not redistribute this program without acknowledgement of the owner(Itz
 
 I hope you will find this program useful :)
 
-![image](https://user-images.githubusercontent.com/74146327/119104415-49d62e00-ba2d-11eb-8598-5e2a233cc55d.png)
+<img width="282" alt="image" src="https://user-images.githubusercontent.com/74146327/184527687-323a992f-0973-4388-a32c-b29e56511653.png">
+
 
