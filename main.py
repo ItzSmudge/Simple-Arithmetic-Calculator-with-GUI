@@ -32,9 +32,9 @@ def equal():
         entry.set(sum)
         operator = ""
     except ZeroDivisionError:
-        tkinter.messagebox.showerror("ERROR!", "CANNOT DIVIDE BY 0")
+        tkinter.messagebox.showerror("Error", "Cannot divide by 0")
     except SyntaxError:
-        tkinter.messagebox.showerror("ERROR!", "A SYNTAX ERROR OCCURED")
+        tkinter.messagebox.showerror("Error", "A syntax error occured")
 
 def clear():
     global operator
